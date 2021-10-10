@@ -10,7 +10,7 @@ Connection started in MainTabBarController view didload
 - .build = > upload to server 
 
 - ReceiveMessage receive massage with on handler      ChatHubConnection append message to message list newMessageAcceptedDelegate  add the message to the list accepted messages 
-
+# events
 - OrderRequested
 - OrderAccepted
 - ConnectionInfo
